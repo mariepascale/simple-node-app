@@ -1,5 +1,5 @@
 {
-  "name": "node-app",
+  "name": "simple-node-app",
   "version": "0.0.0",
   "private": true,
   "scripts": {
